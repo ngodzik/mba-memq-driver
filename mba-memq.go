@@ -1,7 +1,7 @@
 package mbamemqdriver
 
 import (
-	"mba"
+	"github.com/ngodzik/mba"
 
 	"github.com/ngodzik/memq"
 )
